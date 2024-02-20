@@ -18,3 +18,4 @@ The following parameters are fixed for Project 1, by virtue of specifying the -L
 After running the simulator, you can see all parameters of the modeled superscalar processor in the stats.* output file from 721sim. Run “./721sim -h” to get a complete list of command-line arguments.
 
 Go through the project specification to understand the various run conditions used and to understand the commands used.
+The name of the image files is the name of the benchmark subset based on which the graph was generated.
